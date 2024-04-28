@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Test error</h1>;
+  return <h1>Tabnews Home</h1>;
 }
 
 export default Home;

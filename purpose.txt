@@ -1,0 +1,6 @@
+Purpose: Help the ones who are studying to become software engineers
+Possible Users: People trying to become software engineers
+
+1- To Be Done: Auth system, create post section, comments, etc
+2- To Be Protected: Users info
+3- To Be Repeated: idk
